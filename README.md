@@ -31,8 +31,7 @@ Here are some tools and technologies I use or currently learning:
 ---
 
 ### 🌸 Current Projects  
-- Building a **cute & modern product website** with cart features  
-- Developing a **Super Mario–style game using SDL2 & C++**  
+- Building a **cute & modern product website** with cart features   
 - Creating clean & aesthetic **UI designs on Figma**  
 
 ---
