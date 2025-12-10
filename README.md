@@ -47,7 +47,7 @@ Here are some tools and technologies I use or currently learning:
 ### 📫 Reach Me  
 Let’s connect or collaborate!
 
-- Email: **sophiaanindita@gmail.com**  
+- Email: **aninditasophia7@gmail.com**  
 - GitHub: **github.com/sophiaanindita**
 
 ---
