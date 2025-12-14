@@ -1,57 +1,72 @@
-<h1 align="center">Hi, I'm Sophia Anindita 🌷</h1>
-<h3 align="center">Passionate Learner • Web Development Enthusiast • Project Builder</h3>
+<h1 align="center">Hi, I'm Sophia Anindita 🐾🌷</h1>
+<h3 align="center">Website Lover • Project Enthusiast • Challenge Seeker</h3>
 
 ---
 
-### 🌼 About Me  
-Hello! I’m Sophia — a girl who loves building projects, exploring new technologies, and turning ideas into something real.  
-I enjoy learning step-by-step, experimenting with designs, and creating things that feel clean, simple, and impactful.
+### 🌸 About Me
 
-- 🌱 Currently learning **Web Development, UI/UX**  
-- 💻 Enthusiastic about **building websites**  
-- ☕ Loves aesthetic design, clean layouts, and anything that looks “warm but professional”  
-- 🤝 Open to discussions, collaborations, and sharing knowledge  
-- ✨ “Small progress is still progress!”
+Hi! I’m Sophia — a girl who *really* loves building websites, working on projects, and exploring new challenges in tech.
+I enjoy the process of creating from scratch, experimenting with layouts, editing details, and turning ideas into real, functional products.
 
----
-
-### 💻 Tech Stack  
-Here are some tools and technologies I use or currently learning:
-
-**Languages & Frameworks**  
-- HTML • CSS • JavaScript  
-- PHP • MySQL  
-- Laravel  
-- Bootstrap • Tailwind • React (basic)
-
-**Tools**  
-- VS Code • Git & GitHub  
-- Figma • Netlify • XAMPP  
+* 💻 Passionate about **Website Development**
+* 🐱 Cat lover (they make coding days better!)
+* 🚀 Loves working on **projects & challenges**
+* 🎨 Enjoys **editing, designing, and polishing UI**
+* 🌱 Currently focusing on **Laravel & Front-End Development**
+* ✨ Believes that growth comes from consistency and curiosity
 
 ---
 
-### 🌸 Current Projects  
-- Building a **cute & modern product website** with cart features   
-- Creating clean & aesthetic **UI designs on Figma**  
+### 💻 Tech Stack
+
+Technologies I use and keep improving:
+
+**Languages & Frameworks**
+
+* HTML • CSS • JavaScript
+* PHP
+* Laravel
+* Bootstrap
+
+**Tools**
+
+* VS Code
+* Git & GitHub
+* Figma
+* Netlify
+* XAMPP
 
 ---
 
-### 🌟 My Values  
-- ✨ Detail-oriented  
-- 🔒 Responsible & consistent  
-- ❤️ Passionate about learning  
-- 🎀 Balancing creativity & structure  
+### 🌷 What I Love Working On
+
+* Building **dynamic & responsive websites**
+* Developing **Laravel-based projects**
+* Designing clean, cute, yet professional **UI layouts**
+* Editing details to make interfaces feel smooth & polished
+* Solving problems and facing new technical challenges
 
 ---
 
-### 📫 Reach Me  
-Let’s connect or collaborate!
+### 🌟 Personal Values
 
-- Email: **aninditasophia7@gmail.com**  
-- GitHub: **github.com/sophiaanindita**
+* ✨ Detail-oriented & organized
+* 🎯 Enjoys challenges and problem-solving
+* ❤️ Passionate about continuous learning
+* 🎀 Balancing creativity with logical thinking
+* 🐾 Patient, persistent, and growth-minded
+
+---
+
+### 📫 Let’s Connect
+
+Open for collaboration, discussion, or project opportunities!
+
+* 📧 Email: **[aninditasophia7@gmail.com](mailto:aninditasophia7@gmail.com)**
+* 💻 GitHub: **github.com/sophiaanindita**
 
 ---
 
 <p align="center">
-  <em>“Build, learn, repeat — because every line of code brings you closer to your dreams.”</em> 💗
+  <em>“Love the process, enjoy the challenges, and let your projects speak for you.”</em> 🐱💗
 </p>
