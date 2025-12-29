@@ -9,13 +9,11 @@ Hi! I’m Sophia — a girl who *really* loves building websites, working on pro
 I enjoy the process of creating from scratch, experimenting with layouts, editing details, and turning ideas into real, functional products.
 
 * 💻 Passionate about **Website Development**
-* 🐱 Cat lover (they make coding days better!)
+* 🐱 Cat lover they make coding days better!
 * 🚀 Loves working on **projects & challenges**
 * 🎨 Enjoys **editing, designing, and polishing UI**
 * 🌱 Currently focusing on **Laravel & Front-End Development**
 * ✨ Believes that growth comes from consistency and curiosity
-
----
 
 ### 💻 Tech Stack
 
